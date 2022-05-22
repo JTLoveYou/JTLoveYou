@@ -1,10 +1,22 @@
 
-<img src="https://camo.githubusercontent.com/f6d0b3346f2cdb27dbf6fa73b954788d5da9883c8ac0cd81f94ed7285d4613b2/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d46756c6c2d737461636b253230776562253230616e64253230617070253230646576656c6f7065723b457870657269656e636564253230446973636f7264253230426f742532304465763b412532304c6f742532306f66253230636f64696e67253230657870657269656e63653b416c776179732532306c6561726e696e672532306e65772532307468696e677326666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d343430266865696768743d343526636f6c6f723d373835366435267643656e7465723d747275652673697a653d3232" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Discord%20Bot%20Dev;A%20Lot%20of%20coding%20experience;Always%20learning%20new%20things&amp;font=Fira%20Code&amp;center=true&amp;width=440&amp;height=45&amp;color=7856d5&amp;vCenter=true&amp;size=22" style="max-width: 100%;">
+</h2>
+<p align="center">
+  <a href="https://github.com/JTLoveYou/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Discord%20Bot%20Dev;A%20Lot%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7856d5&vCenter=true&size=22"></a>
+<br>
+<br>
+  <a href="https://github.com/JTLoveYou?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=171728&labelColor=555555&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JTLoveYou"/></a>
+  <a href="https://github.com/JTLoveYou?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/JTLoveYou?color=171728&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/JTLoveYou/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=JTLoveYou&color=171728&style=for-the-badge"/></a>
+<br>
+<br>
+
 
 <img src="https://media.discordapp.net/attachments/977948184980639784/977967530515767316/Plan_de_travail_1.png">
 
 <h3>🛍️ i sell in https://cutt.ly/qHTaC3D </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jtloveyou&label=Profile%20views&color=0e75b6&style=flat" alt="jtloveyou" /> </p>
 
 - Site Of Sly [Sly'Family](https://www.slyfamily.ch/)
 
