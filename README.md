@@ -1,4 +1,4 @@
-
+G
 </h2>
 <p align="center">
   <a href="https://github.com/JTLoveYou/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Discord%20Bot%20Dev;A%20Lot%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7856d5&vCenter=true&size=22"></a>
