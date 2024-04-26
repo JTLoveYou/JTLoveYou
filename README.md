@@ -13,14 +13,9 @@
 <br>
 <br>
 
+<h3>🛍️ i sell 
 
-<img src="https://media.discordapp.net/attachments/977948184980639784/977967530515767316/Plan_de_travail_1.png">
-
-<h3>🛍️ i sell in https://cutt.ly/qHTaC3D </h3>
-
-- Site Of Sly [Sly'Family](https://www.slyfamily.ch/)
-
-- discord [TheSly](https://discord.gg/jpV3GsQ4yW)
+- Site Of me [me](https://bento.me/justetheo)
 
 - 💬 MY Discord **JusteTheo#3945**
 
