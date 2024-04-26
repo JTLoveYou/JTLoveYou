@@ -15,7 +15,7 @@
 
 <h3>🛍️ i sell 
 
-- Site Of me [me](https://bento.me/justetheo)
+- Site Of [me](https://bento.me/justetheo)
 
 - 💬 MY Discord **JusteTheo#3945**
 
