@@ -37,20 +37,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://slyclub.xyz" target="_blank">
-    <img alt="slyclub.xyz" src="https://img.shields.io/badge/slyclub.xyz-ff6666?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/JusteTheo#3945" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=ff6666" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/JTLoveYou">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JTLoveYou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JTLoveYou">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTLoveYou&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
